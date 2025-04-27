@@ -1,9 +1,9 @@
 # Hi there! 👋
 
-🚀 I am Passionate about **Full Stack Development** and **Open Source**.
+🚀 I am Passionate about **Full Stack Development** and **Open Source Projects**.
 
 ## 🛠 Tech Stack
-- **Web Development:** HTML, CSS, JavaScript, React, Tailwind CSS
+- **Web Technologies:** HTML, CSS, JavaScript, React, Tailwind CSS
 - **Languages:** C, Python, Java
 - **Databases:** MySQL, MongoDB
 - **Tools & Platforms:** Git, GitHub, Notion, Firebase, Canva
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabesh10&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabesh10&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact" width="48%" />
 </p>
 
 
