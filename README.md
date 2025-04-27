@@ -25,7 +25,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shabesh10&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true" width="48%" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shabesh10&theme=vision-friendly-dark&hide_border=false" width="48%" />
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=shabesh10&theme=vision-friendly-dark&hide_border=false" width="48%" />-->
 </p>
 
 <p align="center">
