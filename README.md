@@ -18,9 +18,15 @@
 ![shabesh10's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shabesh10&theme=react&hide_border=false)
 ![shabesh10's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shabesh10&theme=react&show_icons=true&hide_border=false&layout=compact)-->
 <!--Fav dark theme-->
-![shabesh10's Stats](https://github-readme-stats.vercel.app/api?username=shabesh10&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)
+<!--![shabesh10's Stats](https://github-readme-stats.vercel.app/api?username=shabesh10&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)
 ![shabesh10's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shabesh10&theme=vision-friendly-dark&hide_border=false)
-![shabesh10's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shabesh10&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact)
+![shabesh10's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shabesh10&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact)-->
+
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=shabesh10&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shabesh10&theme=vision-friendly-dark&hide_border=false">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabesh10&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact">
+</div>
 
 ## 📫 To contact me
 - 📧 Email: shabeshvaran@gmail.com
