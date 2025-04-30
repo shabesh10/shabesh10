@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [my chrome extension project](https://github.com/shabesh10/Word-meaning-finder)
 
-- 📫 How to reach me **shabeshvaran@gmail.com**
+- 📫 Contact me through **shabeshvaran@gmail.com**
 
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1eDPjhveC59Y_V-gXjWtGMQA4ix2Tnsqj/view?usp=sharing)
 
