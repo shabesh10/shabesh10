@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shabeshvaran@gmail.com**
 
-- 📄 Check out my[https://drive.google.com/file/d/1eDPjhveC59Y_V-gXjWtGMQA4ix2Tnsqj/view?usp=sharing](Resume)
+- 📄 Check out my[Resume](https://drive.google.com/file/d/1eDPjhveC59Y_V-gXjWtGMQA4ix2Tnsqj/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
