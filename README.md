@@ -1,7 +1,7 @@
 <h1 align="center">Hello world 👋, I'm Shabesh</h1>
 <h3 align="center">I am Passionate about Full Stack Development and Open Source Projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shabesh10&label=Profile%20views&color=0e75b6&style=flat" alt="shabesh10" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shabesh10&label=Profile%20views&color=0e75b6&style=flat" alt="shabesh10" /> </p>
 
 - 🌱 I’m currently learning **Frontend development**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shabeshvaran@gmail.com**
 
-- 📄 Check out my[Resume](https://drive.google.com/file/d/1eDPjhveC59Y_V-gXjWtGMQA4ix2Tnsqj/view?usp=sharing)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1eDPjhveC59Y_V-gXjWtGMQA4ix2Tnsqj/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -57,5 +57,4 @@
 
 
 
-## 📫 To contact me
-- 📧 Email: shabeshvaran@gmail.com
+
