@@ -1,7 +1,7 @@
 <h1 align="center">Hello world 👋, I'm Shabesh</h1>
 <h3 align="center">I am Passionate about Full Stack Development and Open Source Projects.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shabesh10&label=Profile%20views&color=0e75b6&style=flat" alt="shabesh10" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shabesh10&label=Profile%20views&color=0e75b6&style=flat" alt="shabesh10" /> </p>
 
 - 🌱 I’m currently learning **Frontend development**
 
