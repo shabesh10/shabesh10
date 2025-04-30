@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 🤝 I’m looking for help with [this chrome extension](https://github.com/shabesh10/Word-meaning-finder)
+- 🤝 I’m looking for help with [my chrome extension project](https://github.com/shabesh10/Word-meaning-finder)
 
 - 📫 How to reach me **shabeshvaran@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eDPjhveC59Y_V-gXjWtGMQA4ix2Tnsqj/view?usp=sharing](https://drive.google.com/file/d/1eDPjhveC59Y_V-gXjWtGMQA4ix2Tnsqj/view?usp=sharing)
+- 📄 Check out my[https://drive.google.com/file/d/1eDPjhveC59Y_V-gXjWtGMQA4ix2Tnsqj/view?usp=sharing](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -53,7 +53,7 @@
 </p>
 
 ## 💻 Dev Card
-<a href="https://app.daily.dev/shabeshvarans"><img src="https://api.daily.dev/devcards/v2/F8LHf3anlk264YHpGT6PR.png?type=default&r=dsg" width="356" alt="Shabeshvaran S's Dev Card"/></a>
+<p align="center"><a href="https://app.daily.dev/shabeshvarans"><img src="https://api.daily.dev/devcards/v2/F8LHf3anlk264YHpGT6PR.png?type=default&r=dsg" width="356" alt="Shabeshvaran S's Dev Card"/></a></p>
 
 
 
