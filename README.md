@@ -32,6 +32,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabesh10&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact" width="48%" />
 </p>
 
+## 💻 Dev Card
+<a href="https://app.daily.dev/shabeshvarans"><img src="https://api.daily.dev/devcards/v2/F8LHf3anlk264YHpGT6PR.png?type=default&r=dsg" width="356" alt="Shabeshvaran S's Dev Card"/></a>
+
 
 
 ## 📫 To contact me
