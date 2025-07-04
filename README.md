@@ -54,7 +54,3 @@
 
 ## 💻 Dev Card
 <p align="center"><a href="https://app.daily.dev/shabesh_10"><img src="https://api.daily.dev/devcards/v2/F8LHf3anlk264YHpGT6PR.png?type=default&r=p30" width="356" alt="Shabeshvaran S's Dev Card"/></a></p>
-
-
-
-
