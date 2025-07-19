@@ -11,13 +11,14 @@
 
 - 📫 Contact me through **shabeshvaran@gmail.com**
 
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1eDPjhveC59Y_V-gXjWtGMQA4ix2Tnsqj/view?usp=sharing)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1fSHkUtPVWxOUjG2OYQS5RjVuRHZrDQgJ/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://linkedin.com/in/shabeshvaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shabeshvaran" height="30" width="40" /></a>
 <a href="https://dev.to/shabesh_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shabesh_10" height="30" width="40" /></a>
 <a href="https://twitter.com/shabesh_fcb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shabesh_fcb" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shabeshvaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shabeshvaran" height="30" width="40" /></a>
+
 <a href="https://instagram.com/shabesh_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shabesh_10" height="30" width="40" /></a>
 <a href="https://medium.com/@shabeshvaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shabeshvaran" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shabeshvaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shabeshvaran" height="30" width="40" /></a>
