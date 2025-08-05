@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shabesh10&label=Profile%20views&color=0e75b6&style=flat" alt="shabesh10" /> </p>
 
-- 🌱 I’m currently learning **Frontend development**
+- 🌱 I’m currently learning **Fullstack web development**
 
 - 👯 I’m looking to collaborate on **Open source projects**
-
-- 🤝 I’m looking for help with [my chrome extension project](https://github.com/shabesh10/Word-meaning-finder)
 
 - 📫 Contact me through **shabeshvaran@gmail.com**
 
