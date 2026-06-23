@@ -1,5 +1,5 @@
 <h1 align="center">Hello world 👋, I'm Shabesh</h1>
-<h3 align="center">I am Passionate about Full Stack Development and Open Source Projects.</h3>
+<h3 align="center">I am Passionate about Full Stack Development and Open Source</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shabesh10&label=Profile%20views&color=0e75b6&style=flat" alt="shabesh10" /> </p>
 
