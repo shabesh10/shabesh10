@@ -1,0 +1,104 @@
+{
+  "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+  "coloredImage": true,
+  "imageScale": 1,
+
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        {
+          "key": "Name",
+          "value": "{{name}}"
+        },
+        {
+          "key": "Location",
+          "value": "{{location}}"
+        },
+        {
+          "key": "Focus",
+          "value": "Software Engineering"
+        },
+        {
+          "key": "Languages",
+          "value": "{{languages}}"
+        },
+        {
+          "key": "Frontend",
+          "value": "React, Tailwind CSS, Bootstrap"
+        },
+        {
+          "key": "Backend",
+          "value": "Spring Boot, Node.js, Express"
+        },
+        {
+          "key": "Database",
+          "value": "MySQL, MongoDB, Oracle"
+        },
+        {
+          "key": "Cloud",
+          "value": "AWS, Docker"
+        },
+        {
+          "key": "AI / ML",
+          "value": "PyTorch"
+        },
+        {
+          "key": "Tools",
+          "value": "Git, Linux, GitHub Actions"
+        },
+        {
+          "key": "Editor",
+          "value": "IntelliJ IDEA, VS Code"
+        }
+      ]
+    }
+  ],
+
+  "stats": {
+    "title": "- GitHub Stats",
+    "rows": [
+      {
+        "left": {
+          "key": "Repos",
+          "value": "{{repos}}"
+        },
+        "right": {
+          "key": "Stars",
+          "value": "{{stars}}"
+        }
+      },
+      {
+        "left": {
+          "key": "Followers",
+          "value": "{{followers}}"
+        },
+        "right": {
+          "key": "Following",
+          "value": "{{following}}"
+        }
+      },
+      {
+        "left": {
+          "key": "Commits",
+          "value": "{{commits}}"
+        },
+        "right": {
+          "key": "Forks",
+          "value": "{{forks}}"
+        }
+      },
+      {
+        "left": {
+          "key": "Issues",
+          "value": "{{issues}}"
+        },
+        "right": {
+          "key": "PRs",
+          "value": "{{prs}}"
+        }
+      },
+      "loc"
+    ]
+  }
+}
