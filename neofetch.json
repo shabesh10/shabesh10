@@ -18,7 +18,7 @@
         },
         {
           "key": "Focus",
-          "value": "Software Engineering"
+          "value": "Software Engineering, FOSS"
         },
         {
           "key": "Languages",
@@ -26,15 +26,15 @@
         },
         {
           "key": "Frontend",
-          "value": "React, Tailwind CSS, Bootstrap"
+          "value": "ReactJS, Tailwind CSS"
         },
         {
           "key": "Backend",
-          "value": "Spring Boot, Node.js, Express"
+          "value": "Spring Boot, Node.js"
         },
         {
           "key": "Database",
-          "value": "MySQL, MongoDB, Oracle"
+          "value": "MySQL, PostgreSQL, MongoDB"
         },
         {
           "key": "Cloud",
