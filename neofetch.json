@@ -2,7 +2,7 @@
   "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
   "coloredImage": true,
   "imageScale": 1,
-  
+
   "sections": [
     {
       "title": "{{username}}@github",
@@ -18,39 +18,48 @@
         {
           "key": "Focus",
           "value": "Software Engineering, FOSS"
-        },
+        }
+      ]
+    },
+    {
+      "fields": [
         {
           "key": "Languages",
-          "value": "{{languages}}"
+          "value": "Java, Python, C"
         },
         {
-          "key": "Frontend",
-          "value": "ReactJS, Tailwind CSS"
-        },
-        {
-          "key": "Backend",
-          "value": "Spring Boot, Node.js"
-        },
-        {
-          "key": "Database",
-          "value": "MySQL, PostgreSQL, MongoDB"
+          "key": "Web",
+          "value": "React.js, JavaScript, HTML5, CSS3, Tailwind CSS"
         },
         {
           "key": "Cloud",
-          "value": "AWS, Docker"
+          "value": "AWS EC2, S3, RDS, VPC, Linux CLI"
         },
         {
-          "key": "AI / ML",
-          "value": "PyTorch"
+          "key": "Databases",
+          "value": "MySQL, PostgreSQL, MongoDB"
         },
         {
           "key": "Tools",
-          "value": "Git, Linux, GitHub Actions"
+          "value": "n8n, Firebase, Netlify"
+        },
+      ]
+    },
+    {
+      "title": "- Contact",
+      "fields": [
+        {
+          "key": "GitHub",
+          "value": "https://github.com/{{username}}"
         },
         {
-          "key": "Editor",
-          "value": "IntelliJ IDEA, VS Code"
-        }
+          "key": "LinkedIn",
+          "value": "https://www.linkedin.com/in/shabeshvaran"
+        },
+        {
+          "key": "Email",
+          "value": "shabeshvaran@gmail.com"
+        },
       ]
     }
   ],
